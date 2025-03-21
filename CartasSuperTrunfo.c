@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main (){
-    printf("superTrunfocarta01");
+    printf("superTrunfocarta01\n");
     char carta = '1';
     char estado = 'A';
     char codigo_da_carta[] = "A01";
